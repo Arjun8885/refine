@@ -1,0 +1,65 @@
+.main{
+    margin:0;  
+    padding: 200px 620px;  
+}
+
+    
+.inputform{
+    width:300px;
+    height: 380px;
+    background-color: rgba(0,0,0,0.09);
+    border-radius: 10px;
+
+    
+   
+}
+.inputform input{
+    width:250px;
+    margin-top: 15px;
+    height:30px;
+    border-radius: 4px;
+    border-width: 1px;
+}
+.labels{
+
+  font-size: 15px;
+  font-weight: 600;
+  padding-right: 135px;
+  margin-top: 10px;
+  
+  
+}
+
+.signup
+    {
+        margin: 1rem;
+        text-align: center;
+       
+        margin-top: -635px;
+        
+        
+    }
+
+   
+.title{
+    margin-top: 10px;
+    font-size: 35px;
+    font-weight: 600;
+        
+     
+    }
+.buttn{
+    margin-top: 16px;
+    width:250px;
+    border-width:1px ;
+    border-radius: 4px;
+    height:33px;
+    background-color:darkslateblue;
+    cursor:pointer;
+    font-size: 16px;
+    
+}
+.inputform .buttn:hover{
+    background-color:indigo;
+    color:aliceblue;
+}
